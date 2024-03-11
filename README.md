@@ -3,7 +3,7 @@
 
 ![image](pyramide.png)
 
-Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider placeret omkring Give by. For spørgsmål/ uddybning, skriv til <jorti@vejlebib.dk>
+Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider placeret omkring Give by. Længde 4 lektioner. For spørgsmål/ uddybning, skriv til <jorti@vejlebib.dk>
 
 * 1.lektion: 30 minutters introduktion til pyramider, labyrinter, minecraft, opdeling i grupper og opstart i verden
 * 2.-3.lektion: bygning af labyrinter i pyramider
