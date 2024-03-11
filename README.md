@@ -9,6 +9,13 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 * 2.-3.lektion: bygning af labyrinter i pyramider
 * 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen
 
+![image](planen.png)
+
+# Filer
+* [Slides](pyramidecraft-slides.odp)
+* [Verden uden pyramider](give.mcworld)
+* [Verden med 12 pyramider](give-pyramider.mcworld)
+
 # Sådan er kort, pyramider og NPC'er lavet
 
 ## Generering af pyramide
