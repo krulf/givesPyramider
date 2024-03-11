@@ -34,6 +34,7 @@ Teleporterne laves med et NPC-æg som findes i lageret. For at sætte en NPC ska
 |Skolen:|
 |-----------------------|
 |/tp @p -84443 116 11674|
+
 |Pyramider:|
 |-----------------------|
 |/tp @p -84022 117 10789|
