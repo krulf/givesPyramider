@@ -27,6 +27,29 @@ MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i
 |-86277|120|12329|
 |-85825|112|12265|
 
+## Teleportere/ NPC'ere
+Koordinaterne ovenfor bruges til teleport-kommandoer, så eleverne kan komme fra skolen og til pyramiderne.
+Teleporterne laves med et NPC-æg som findes i lageret. For at sætte en NPC skal man være worldbuilder og det aktiveres ved at åbne chatten med t og skrive ´´´/worldbuilder´´´
+
+|Skolen:|
+|-----------------------|
+|/tp @p -84443 116 11674|
+|Pyramider:|
+|-----------------------|
+|/tp @p -84022 117 10789|
+|/tp @p -84283 113 11103|
+|/tp @p -84263 115 11462|
+|/tp @p -84058 115 11776|
+|/tp @p -84100 120 12212|
+|/tp @p -84520 115 12301|
+|/tp @p -84872 117 12490|
+|/tp @p -85384 109 12422|
+|/tp @p -86374 107 11343|
+|/tp @p -86026 102 10884|
+|/tp @p -86277 120 12329|
+|/tp @p -85825 112 12265|
+
+
 ## Danmark i Minecraft
 Selve byen er baseret på et udsnit af "Danmark i Minecraft" fra 2014, som er stillet til rådighed af det [Kongelige Bibliotek](https://loar.kb.dk/collections/45f89370-686d-4c56-8f6a-ff35453f24f5). Pakkerne [-180_0.zip](https://loar.kb.dk/items/c0eefb81-07b2-4bc0-9ccc-8d81d6062d4e) og [-180_20.zip](https://loar.kb.dk/items/db6c8659-a58d-47bc-9892-9acc93ad57f0) er downloadet. Regionsfilerne er lagt i samme mappe for at blive udvalgt med [MCA Selector](https://github.com/Querz/mcaselector), eksporteret og konverteret med onlineværktøjet (må max fylde 500mb udpakket) https://chunker.app
 
