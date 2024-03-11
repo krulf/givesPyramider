@@ -7,7 +7,7 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 
 * 1.lektion: 30 minutters introduktion til pyramider, labyrinter, minecraft, opdeling i grupper og opstart i verden
 * 2.-3.lektion: bygning af labyrinter i pyramider
-* 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen
+* 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen (tabel med grupper som rækker og pyramider som kolonner)
 
 Eleverne kan ved skolen teleportere sig til pyramiderne med en teleporter (NPC) og ved hver pyramide er der placeret en teleporter (NPC) som kan sende dem tilbage til skolen.
 
