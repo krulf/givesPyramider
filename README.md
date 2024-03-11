@@ -16,7 +16,8 @@ Eleverne kan ved skolen teleportere sig til pyramiderne med en teleporter (NPC) 
 * Verden med 12 pyramider: [give-pyramider.mcworld](https://drive.google.com/file/d/1Zh7XnaHkNMFK3JnDOPd-ZERtXND5srbl)
 
 ![image](planen.png)
-![image](scoreboard.png)
+
+![image](scoreboard.jpg)
 
 
 # Sådan er kort, pyramider og NPC'er lavet
