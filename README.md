@@ -10,22 +10,24 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 * 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen
 
 # Sådan er kort, pyramider og NPC'er lavet
-## Opsætning af minecraft verden
-Opsætningen er delt op i spil og klasse.
-
-![image](opsaetning-indstillinger.png)
-
-### Spil
-![image](opsaetning-verdensindstillinger01.png)
-![image](opsaetning-verdensindstillinger02.png)
-![image](opsaetning-verdensindstillinger03-snydekoder.png)
-
-### Klasseindstillinger
-![image](opsaetning-klasseindstillinger.png)
 
 ## Generering af pyramide
-Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education. Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som Cheops pyramidens hældning har. Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
+Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education. Filen der skal importeres hedder [minecraft-pyramide.mkcd](minecraft-pyramide.mkcd).
+
+Hvis du bruger et jernsværd (bygger med højre museknap når sværdet er valgt) genereres 12 pyramider. Mellem hver pyramide teleporteres agenten med og flyttes for at lave en lille pause. Hvis ikke der er en pause genereres pyramiden før spilleren er teleporteret hen til positionen og alle de klodser der er genereret før spilleren ankommer vil ikke blive lavet:
+![image](blokprogrammering.png)
+
+### Funktionen pyramide3
+Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som Cheops pyramidens hældning har. Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
 ![image](pyramidegeometri.png)
+
+Pyramide3-funktionen (findes under avanceret og funktioner) tager xyz-koordinater fra grundplan og en højde:
+![image](blokprogrammering-pyramide3.png)
+
+For en visuel repræsentation af hvordan algoritmen virker prøv at bruge træskovlen når koden er aktiveret. Den genererer en pyramide med højde 40:
+![image](blokprogrammering-visuelgenererering.png)
+
+Pyramide3-funktionen genererer pyramiden fra toppen med en for-løkke der kører fra 0 til højde. Hvert lag i pyramiden er genereret med fire fill-kommandoer. Grunden til det er at en enkelt fill-kommando'en er begrænset til et område på 180x180. En pyramide med højde 138 ender med en base på 276x276.
 
 ## Pyramidernes placering
 MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i [Inkscape](https://inkscape.org/). Funktionen pyramide3 er kaldt 12 gange for at generere de tolv pyramider, på følgende minecraft koordinater (visualiseret herunder):
@@ -78,6 +80,18 @@ Når ```/worldbuilder``` er aktiveret har man adgang til at redigere NPC-dialoge
 ## Danmark i Minecraft
 Selve byen er baseret på et udsnit af "Danmark i Minecraft" fra 2014, som er stillet til rådighed af det [Kongelige Bibliotek](https://loar.kb.dk/collections/45f89370-686d-4c56-8f6a-ff35453f24f5). Pakkerne [-180_0.zip](https://loar.kb.dk/items/c0eefb81-07b2-4bc0-9ccc-8d81d6062d4e) og [-180_20.zip](https://loar.kb.dk/items/db6c8659-a58d-47bc-9892-9acc93ad57f0) er downloadet. Regionsfilerne er lagt i samme mappe for at blive udvalgt med [MCA Selector](https://github.com/Querz/mcaselector), eksporteret og konverteret med onlineværktøjet (må max fylde 500mb udpakket) https://chunker.app
 
+## Opsætning af minecraft verden
+Opsætningen er delt op i spil og klasse.
+
+![image](opsaetning-indstillinger.png)
+
+### Spil
+![image](opsaetning-verdensindstillinger01.png)
+![image](opsaetning-verdensindstillinger02.png)
+![image](opsaetning-verdensindstillinger03-snydekoder.png)
+
+### Klasseindstillinger
+![image](opsaetning-klasseindstillinger.png)
 
 
 This work is licensed under a
