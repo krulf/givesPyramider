@@ -9,12 +9,13 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 * 2.-3.lektion: bygning af labyrinter i pyramider
 * 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen
 
-![image](planen.png)
+Eleverne kan ved skolen teleportere sig til pyramiderne med en teleporter (NPC) og ved hver pyramide er der placeret en teleporter (NPC) som kan sende dem tilbage til skolen.
 
-# Filer
 * Introsnak: [pyramidecraft-slides.odp](pyramidecraft-slides.odp)
 * Verden uden pyramider: [give.mcworld](https://drive.google.com/file/d/1IxNttfCih3WzaDfkqnkxRn6xIez7zmd3)
 * Verden med 12 pyramider: [give-pyramider.mcworld](https://drive.google.com/file/d/1Zh7XnaHkNMFK3JnDOPd-ZERtXND5srbl)
+
+![image](planen.png)
 
 # Sådan er kort, pyramider og NPC'er lavet
 
