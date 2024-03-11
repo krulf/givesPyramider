@@ -30,7 +30,7 @@ Hvis du bruger et jernsværd (bygger med højre museknap når sværdet er valgt)
 ![image](blokprogrammering.png)
 
 ### Funktionen pyramide3
-Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som Cheops pyramidens hældning har. Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
+Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som [Cheops pyramiden](https://denstoredanske.lex.dk/Cheopspyramiden). Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
 
 ![image](pyramidegeometri.png)
 
