@@ -5,6 +5,21 @@
 
 Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider placeret omkring Give by. For spørgsmål/ uddybning, skriv til <jorti@vejlebib.dk>
 
+1. lektion: 30 minutters introduktion til pyramider, labyrinter, minecraft
+2.-3.lektion: bygning af labyrinter i pyramider
+4.lektion: prøve hinandens labyrinter
+
+# Sådan er kort, pyramider og NPC'er lavet
+## Opsætning af minecraft verden
+Opsætningen er delt op i spil og klasse
+![image](indstillinger.png)
+### Spil
+![image](opsaetning-verdensindstillinger01.png)
+![image](opsaetning-verdensindstillinger02.png)
+![image](opsaetning-verdensindstillinger03-snydekoder.png)
+### Klasseindstillinger
+![image](opsaetning-klasseindstillinger.png)
+
 ## Generering af pyramide
 Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education. Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som Cheops pyramidens hældning har. Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
 ![image](pyramidegeometri.png)
