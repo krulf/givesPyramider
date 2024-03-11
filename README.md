@@ -11,12 +11,15 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 
 # Sådan er kort, pyramider og NPC'er lavet
 ## Opsætning af minecraft verden
-Opsætningen er delt op i spil og klasse
+Opsætningen er delt op i spil og klasse.
+
 ![image](opsaetning-indstillinger.png)
+
 ### Spil
 ![image](opsaetning-verdensindstillinger01.png)
 ![image](opsaetning-verdensindstillinger02.png)
 ![image](opsaetning-verdensindstillinger03-snydekoder.png)
+
 ### Klasseindstillinger
 ![image](opsaetning-klasseindstillinger.png)
 
