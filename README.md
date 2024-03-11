@@ -10,8 +10,8 @@ Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education.
 ![image](pyramidegeometri.png)
 
 ## Pyramidernes placering
-MCA Selector er brugt til at eksportere et oversigtskort, som er behandlet i [Inkscape](https://inkscape.org/). Funktionen pyramide3 er kaldt 10 gange for at generere de ti pyramider, på følgende minecraft koordinater (visualiseret herunder):
-![image](kort.png)
+MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i [Inkscape](https://inkscape.org/). Funktionen pyramide3 er kaldt 12 gange for at generere de tolv pyramider, på følgende minecraft koordinater (visualiseret herunder):
+[![image](kort.png)](kort.svg)
 |X|Y|Z|
 |------|---|-----|
 |-84022|117|10789|
