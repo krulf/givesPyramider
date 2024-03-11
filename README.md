@@ -29,7 +29,13 @@ MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i
 
 ## Teleportere/ NPC'ere
 Koordinaterne ovenfor bruges til teleport-kommandoer, så eleverne kan komme fra skolen og til pyramiderne.
-Teleporterne laves med et NPC-æg som findes i lageret. For at sætte en NPC skal man være worldbuilder og det aktiveres ved at åbne chatten med t og skrive ´´´/worldbuilder´´´
+![image](NPC-teleporter.png)
+![image](NPC-teleporter-dialog.png)
+
+Teleporterne laves med et NPC-æg som findes i lageret med tasten e. For at sætte en NPC skal man være worldbuilder og det aktiveres ved at åbne chatten med t og skrive ´´´/worldbuilder´´´
+
+Når ```/worldbuilder``` er aktiveret har man adgang til at redigere NPC-dialogen og indsætte en knap-kommando under avanceret:
+![image](NPC-teleporter-kommando.png)
 
 |Skolen:|
 |-----------------------|
