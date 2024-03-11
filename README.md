@@ -15,23 +15,29 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education. Filen der skal importeres hedder [minecraft-pyramide.mkcd](minecraft-pyramide.mkcd).
 
 Hvis du bruger et jernsværd (bygger med højre museknap når sværdet er valgt) genereres 12 pyramider. Mellem hver pyramide teleporteres agenten med og flyttes for at lave en lille pause. Hvis ikke der er en pause genereres pyramiden før spilleren er teleporteret hen til positionen og alle de klodser der er genereret før spilleren ankommer vil ikke blive lavet:
+
 ![image](blokprogrammering.png)
 
 ### Funktionen pyramide3
 Hvert 6.lag i pyramiden ligger dobbelt for at ramme tæt på samme gradantal som Cheops pyramidens hældning har. Pyramiden præsenteret herunder er en ligebenet trekant 138 i højden og 230 i basen, hvilket giver 23 grupper af 6 lag. Det kan f.eks. skitseres med [Solvespace](https://solvespace.com/) som vist herunder:
+
 ![image](pyramidegeometri.png)
 
 Pyramide3-funktionen (findes under avanceret og funktioner) tager xyz-koordinater fra grundplan og en højde:
+
 ![image](blokprogrammering-pyramide3.png)
 
 For en visuel repræsentation af hvordan algoritmen virker prøv at bruge træskovlen når koden er aktiveret. Den genererer en pyramide med højde 40:
+
 ![image](blokprogrammering-visuelgenererering.png)
 
 Pyramide3-funktionen genererer pyramiden fra toppen med en for-løkke der kører fra 0 til højde. Hvert lag i pyramiden er genereret med fire fill-kommandoer. Grunden til det er at en enkelt fill-kommando'en er begrænset til et område på 180x180. En pyramide med højde 138 ender med en base på 276x276.
 
 ## Pyramidernes placering
 MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i [Inkscape](https://inkscape.org/). Funktionen pyramide3 er kaldt 12 gange for at generere de tolv pyramider, på følgende minecraft koordinater (visualiseret herunder):
+
 [![image](kort.png)](kort.svg)
+
 |X|Y|Z|
 |------|---|-----|
 |-84022|117|10789|
@@ -49,12 +55,14 @@ MCA Selector er brugt til at eksportere et [oversigtskort](), som er behandlet i
 
 ## Teleportere/ NPC'ere
 Koordinaterne ovenfor bruges til teleport-kommandoer, så eleverne kan komme fra skolen og til pyramiderne.
+
 ![image](NPC-teleporter.png)
 ![image](NPC-teleporter-dialog.png)
 
 Teleporterne laves med et NPC-æg som findes i lageret med tasten e. For at sætte en NPC skal man være worldbuilder og det aktiveres ved at åbne chatten med t og skrive ´´´/worldbuilder´´´
 
 Når ```/worldbuilder``` er aktiveret har man adgang til at redigere NPC-dialogen og indsætte en knap-kommando under avanceret:
+
 ![image](NPC-teleporter-kommando.png)
 
 |Skolen:|
