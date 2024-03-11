@@ -14,7 +14,7 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 ## Generering af pyramide
 Funktionen pyramide3 kan importeres som blokprogrammering i Minecraft Education. Filen der skal importeres hedder [minecraft-pyramide.mkcd](minecraft-pyramide.mkcd).
 
-Hvis du bruger et jernsværd (bygger med højre museknap når sværdet er valgt) genereres 12 pyramider. Mellem hver pyramide teleporteres agenten med og flyttes for at lave en lille pause. Hvis ikke der er en pause genereres pyramiden før spilleren er teleporteret hen til positionen og alle de klodser der er genereret før spilleren ankommer vil ikke blive lavet:
+Hvis du bruger et jernsværd (bygger med højre museknap når sværdet er valgt) genereres 12 pyramider. Hver pyramide genereres to gange. Det tager åbenbart tid for spilleren at blive teleporteret til en position og i den tid fejler pyramide3-funktionen fordi spilleren skal være indenfor en vis rækkevidde for at der bliver genereret blokke. Derfor bliver pyramiden genereret to gange, så toppen kommer med i anden omgang og ja det er ineffektivt.
 
 ![image](blokprogrammering.png)
 
