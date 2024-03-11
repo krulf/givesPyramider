@@ -5,14 +5,14 @@
 
 Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider placeret omkring Give by. For spørgsmål/ uddybning, skriv til <jorti@vejlebib.dk>
 
-1. lektion: 30 minutters introduktion til pyramider, labyrinter, minecraft
-2.-3.lektion: bygning af labyrinter i pyramider
-4.lektion: prøve hinandens labyrinter
+* 1. lektion: 30 minutters introduktion til pyramider, labyrinter, minecraft
+* 2.-3.lektion: bygning af labyrinter i pyramider
+* 4.lektion: prøve hinandens labyrinter og bruge stopur til at lave et scoreboard på tavlen
 
 # Sådan er kort, pyramider og NPC'er lavet
 ## Opsætning af minecraft verden
 Opsætningen er delt op i spil og klasse
-![image](indstillinger.png)
+![image](opsaetning-indstillinger.png)
 ### Spil
 ![image](opsaetning-verdensindstillinger01.png)
 ![image](opsaetning-verdensindstillinger02.png)
