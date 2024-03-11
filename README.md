@@ -12,7 +12,7 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 ![image](planen.png)
 
 # Filer
-* [Slides](pyramidecraft-slides.odp)
+* Introsnak: [pyramidecraft-slides.odp](pyramidecraft-slides.odp)
 * Verden uden pyramider: [give.mcworld](https://drive.google.com/file/d/1IxNttfCih3WzaDfkqnkxRn6xIez7zmd3)
 * Verden med 12 pyramider: [give-pyramider.mcworld](https://drive.google.com/file/d/1Zh7XnaHkNMFK3JnDOPd-ZERtXND5srbl)
 
