@@ -100,7 +100,9 @@ Når ```/worldbuilder``` er aktiveret har man adgang til at redigere NPC-dialoge
 Selve byen er baseret på et udsnit af "Danmark i Minecraft" fra 2014, som er stillet til rådighed af det [Kongelige Bibliotek](https://loar.kb.dk/collections/45f89370-686d-4c56-8f6a-ff35453f24f5). Pakkerne [-180_0.zip](https://loar.kb.dk/items/c0eefb81-07b2-4bc0-9ccc-8d81d6062d4e) og [-180_20.zip](https://loar.kb.dk/items/db6c8659-a58d-47bc-9892-9acc93ad57f0) er downloadet. Regionsfilerne er lagt i samme mappe for at blive udvalgt med [MCA Selector](https://github.com/Querz/mcaselector), eksporteret og konverteret med onlineværktøjet (må max fylde 500mb udpakket) https://chunker.app
 
 ## Opsætning af minecraft verden
-Opsætningen er delt op i spil og klasse.
+Når verden loades første gang skal man teleportere til udgangspunktet, f.eks. ```/tp @p -84443 116 11674```. Brug ```/setworldspawn``` til at definere der hvor alle spillere starter.
+
+Indstillingerne for verden er i Minecraft Education delt op i spil og klasse og enkelte af indstillingerne overlapper.
 
 ![image](opsaetning-indstillinger.png)
 
