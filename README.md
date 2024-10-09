@@ -13,8 +13,8 @@ Forløb med Minecraft Education, hvor elever bygger labyrinter i pyramider place
 Eleverne kan ved skolen teleportere sig til pyramiderne med en teleporter (NPC) og ved hver pyramide er der placeret en teleporter (NPC) som kan sende dem tilbage til skolen.
 
 * Introsnak: [pyramidecraft-slides.odp](pyramidecraft-slides.odp)
-* Verden uden pyramider: [give.mcworld](https://drive.google.com/file/d/1IxNttfCih3WzaDfkqnkxRn6xIez7zmd3)
-* Verden med 12 pyramider: [give-pyramider.mcworld](https://drive.google.com/file/d/1Zh7XnaHkNMFK3JnDOPd-ZERtXND5srbl)
+* Verden uden pyramider: [give.mcworld](https://drive.google.com/file/d/1IxNttfCih3WzaDfkqnkxRn6xIez7zmd3) (Indeholder data fra Styrelsen for Dataforsyning og Effektivisering)
+* Verden med 12 pyramider: [give-pyramider.mcworld](https://drive.google.com/file/d/1Zh7XnaHkNMFK3JnDOPd-ZERtXND5srbl) (Indeholder data fra Styrelsen for Dataforsyning og Effektivisering)
 
 ![image](planen.png)
 
